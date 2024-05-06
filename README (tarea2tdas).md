@@ -41,7 +41,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 - Mejorar la lectura de datos para aceptar errores del usuario.
 - Implementar una validacion que al ingresar numeros al ingresar un genero o director, no lo permita.
 - Implementar la funcion "Buscar por rango de calificaciones".
-- Implementar para cada criterio de busqueda un mapa para cada respectivo criterio.
+- Implementar para cada criterio de busqueda un mapa.
 
 ## Ejemplo de uso:
 ### EL USUARIO NO SE EQUIVOCARA AL INGRESAR LOS RESPECTIVOS DATOS DURANTE LA EJECUCION DE TODO EL PROGRAMA.
