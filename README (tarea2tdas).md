@@ -31,6 +31,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 
 - Si una pelicula la dirigen 2 o mas directores, esta no se guarda como que fue dirigida por cada director, osea que al momento de mostrarla cuando se ingresa un director(funcionalidad 3) esta pelicula no aparecera.
 - Al ingresar un genero o un director, se tiene que tener en cuenta los espacios que se ingresen luego de terminar de ingresar el dato, ya que no lo procesa y mostrara que no hay peliculas respectivos a ese genero. Por ejemplo en el genero "Horror" hay 23 peliculas en total, pero si se ingresa "Horror  "(1 o mas espacios luego de ingresar el genero), el programa no lo reconoce y dira que no hay peliculas de ese genero, osea que el programa no lo detectaria.
+
   
 
 ### A mejorar:
@@ -40,6 +41,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 - Mejorar la lectura de datos para aceptar errores del usuario.
 - Implementar una validacion que al ingresar numeros al ingresar un genero o director, no lo permita.
 - Implementar la funcion "Buscar por rango de calificaciones".
+- Implementar para cada criterio de busqueda un mapa para cada respectivo criterio.
 
 ## Ejemplo de uso:
 ### EL USUARIO NO SE EQUIVOCARA AL INGRESAR LOS RESPECTIVOS DATOS DURANTE LA EJECUCION DE TODO EL PROGRAMA.
